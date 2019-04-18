@@ -1,0 +1,10 @@
+languages:
+  - ruby
+tags:
+  - todo
+  - blocks
+  - tdd
+  - metaprogramming
+  - enumerable
+  - iteration
+resources: 4
