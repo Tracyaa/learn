@@ -1,0 +1,102 @@
+{
+  "stats": {
+    "suites": 2,
+    "tests": 6,
+    "passes": 6,
+    "pending": 0,
+    "failures": 0,
+    "start": "2019-04-20T22:20:24.380Z",
+    "end": "2019-04-20T22:20:24.493Z",
+    "duration": 113
+  },
+  "tests": [
+    {
+      "title": "is correctly initialized when application is mounted",
+      "fullTitle": "store is correctly initialized when application is mounted",
+      "duration": 25,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "can be updated with an action",
+      "fullTitle": "store can be updated with an action",
+      "duration": 4,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "does not display any users initially",
+      "fullTitle": "the application does not display any users initially",
+      "duration": 5,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "displays users kept within the store",
+      "fullTitle": "the application displays users kept within the store",
+      "duration": 6,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "updates the props as more users are added to the stores state",
+      "fullTitle": "the application updates the props as more users are added to the stores state",
+      "duration": 5,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "lists the total number of users that have been added to the store",
+      "fullTitle": "the application lists the total number of users that have been added to the store",
+      "duration": 5,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "is correctly initialized when application is mounted",
+      "fullTitle": "store is correctly initialized when application is mounted",
+      "duration": 25,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "can be updated with an action",
+      "fullTitle": "store can be updated with an action",
+      "duration": 4,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "does not display any users initially",
+      "fullTitle": "the application does not display any users initially",
+      "duration": 5,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "displays users kept within the store",
+      "fullTitle": "the application displays users kept within the store",
+      "duration": 6,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "updates the props as more users are added to the stores state",
+      "fullTitle": "the application updates the props as more users are added to the stores state",
+      "duration": 5,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "lists the total number of users that have been added to the store",
+      "fullTitle": "the application lists the total number of users that have been added to the store",
+      "duration": 5,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
